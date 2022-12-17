@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIMAO.API", "TIMAO.API\TIMAO.API.csproj", "{A6055CED-A27A-4C6A-825A-68B21508BBF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIMAO.Domain", "TIMAO.Domain\TIMAO.Domain.csproj", "{5E30C88E-FAE2-4577-BD4B-CF6BA7E07A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIMAO.Infrastructure", "TIMAO.Infrastructure\TIMAO.Infrastructure.csproj", "{139A8166-A760-47DD-83BF-E567191EEB53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6055CED-A27A-4C6A-825A-68B21508BBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6055CED-A27A-4C6A-825A-68B21508BBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6055CED-A27A-4C6A-825A-68B21508BBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6055CED-A27A-4C6A-825A-68B21508BBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E30C88E-FAE2-4577-BD4B-CF6BA7E07A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E30C88E-FAE2-4577-BD4B-CF6BA7E07A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E30C88E-FAE2-4577-BD4B-CF6BA7E07A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E30C88E-FAE2-4577-BD4B-CF6BA7E07A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{139A8166-A760-47DD-83BF-E567191EEB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139A8166-A760-47DD-83BF-E567191EEB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139A8166-A760-47DD-83BF-E567191EEB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139A8166-A760-47DD-83BF-E567191EEB53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {333615E3-C39F-4C61-82AE-577B1F1EE67D}
+	EndGlobalSection
+EndGlobal
